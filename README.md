@@ -1,3 +1,2 @@
 # FoodAdviceM.4
-วิชาวิทยาการคำนวณม.4 สิ่งที่ผมทำมันเป็นการล็อกตัวเลขอาจจะถูกหรือผิดก็ได้
-กดเข้าไปในไฟล์ชื่อ FoodAdvice เเล้วcopy codeไปได้เลย
+ComSci of M.4.**What I do it's just lock the number(You can change number) I think it's not true and not false.**
